@@ -9,11 +9,6 @@
     "github",
     "pullrequest"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/hashintel/hash.git",
-    "directory": "blocks/github-pr-overview"
-  },
   "license": "MIT",
   "author": "Alfred Mountfield",
   "scripts": {
