@@ -1490,7 +1490,7 @@ __metadata:
   dependencies:
     "@blockprotocol/graph": "npm:0.0.18"
     "@blockprotocol/type-system": "npm:0.0.4"
-    "@hashintel/design-system": "npm:0.0.1"
+    "@hashintel/design-system": "npm:0.0.3"
     "@mui/icons-material": "npm:5.10.6"
     "@mui/lab": "npm:5.0.0-alpha.100"
     "@mui/material": "npm:5.10.6"
@@ -1788,9 +1788,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@hashintel/design-system@npm:0.0.1":
-  version: 0.0.1
-  resolution: "@hashintel/design-system@npm:0.0.1"
+"@hashintel/design-system@npm:0.0.3":
+  version: 0.0.3
+  resolution: "@hashintel/design-system@npm:0.0.3"
   dependencies:
     "@emotion/cache": "npm:11.7.1"
     "@emotion/react": "npm:11.9.0"
@@ -1798,12 +1798,12 @@ __metadata:
     "@fortawesome/free-regular-svg-icons": "npm:6.0.0"
     "@fortawesome/free-solid-svg-icons": "npm:6.0.0"
     clsx: "npm:1.2.1"
-    react: "npm:^18.2.0"
-    react-dom: "npm:^18.2.0"
   peerDependencies:
-    "@mui/material": 5.10.6
-    "@mui/system": 5.10.6
-  checksum: e30d3b1ca1f5669f6584aebd5515761ab342b38c1f27fbf67b3617e4d9c97360a46a53dcd14f583e64c7b427fb5848066141373c710fbb75b498d53109ec4bab
+    "@mui/material": 5.11.8
+    "@mui/system": 5.11.8
+    react: ^18.2.0
+    react-dom: ^18.2.0
+  checksum: c36a613b80124de1bb71ba5f4b4489ae7c91bf682925a153fd1d64dcc513a3a55c18e4d561117154a7473b135987d3fb64f8f59bf46e9175783a7bb571184539
   languageName: node
   linkType: hard
 
